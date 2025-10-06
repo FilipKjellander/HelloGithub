@@ -7,6 +7,7 @@ public class Main {
         TestClass testClass = new TestClass();
 
         testClass.TestMethod();
+        testClass.TestMethod2();
     }
 
 }
